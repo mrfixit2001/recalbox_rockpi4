@@ -2,7 +2,7 @@ ANNOUNCING RECALBOX FOR THE RK3399 ROCKPI4 - BETA RELEASE
 
 I am very excited to provide the BETA release of RECALBOX for the RADXA RK3399 ROCKPI4 board! 
 -- The download is located under this repository's releases -- 
-https://github.com/mrfixit2001/recalbox_rockpro64/releases
+https://github.com/mrfixit2001/recalbox_rockpi4/releases
 
 Details on the ROCKPI4 SoC can be found here: https://wiki.radxa.com/Rockpi4
 
