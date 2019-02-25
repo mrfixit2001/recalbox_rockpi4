@@ -4,6 +4,9 @@ I am very excited to provide the BETA release of RECALBOX for the RADXA RK3399 R
 -- The download is located under this repository's releases -- 
 https://github.com/mrfixit2001/recalbox_rockpi4/releases
 
+MrFixIt's custom kernel source is available here: https://github.com/mrfixit2001/rockchip-kernel
+Recalbox's source is available on their repo: https://gitlab.com/recalbox
+
 Details on the ROCKPI4 SoC can be found here: https://wiki.radxa.com/Rockpi4
 
 For those of you unfamiliar with Recalbox: https://www.recalbox.com/ "Recalbox offers a wide selection of consoles and game systems. From the very first arcade systems to the NES, the MEGADRIVE, 32-bit platforms (such as the Playstation) and even Nintendo64. With Kodi already included, Recalbox also serves as a Media Center. By connecting it to your home network, you will be able to stream videos from any compatible devices (NAS, PC, External HDD, etc.)."
