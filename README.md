@@ -5,6 +5,7 @@ I am very excited to provide the BETA release of RECALBOX for the RADXA RK3399 R
 https://github.com/mrfixit2001/recalbox_rockpi4/releases
 
 MrFixIt's custom kernel source is available here: https://github.com/mrfixit2001/rockchip-kernel
+
 Recalbox's source is available on their repo: https://gitlab.com/recalbox
 
 Details on the ROCKPI4 SoC can be found here: https://wiki.radxa.com/Rockpi4
