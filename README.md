@@ -1,3 +1,8 @@
+-=[ **THIS REPO IS ARCHIVED - FIND THE LATEST RELEASE HERE: https://github.com/mrfixit2001/recalbox-rockchip** ]=-
+ 
+ 
+ 
+
 ANNOUNCING RECALBOX FOR THE RK3399 ROCKPI4 - BETA RELEASE
 
 I am very excited to provide the BETA release of RECALBOX for the RADXA RK3399 ROCKPI4 board! 
